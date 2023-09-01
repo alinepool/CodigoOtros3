@@ -1,8 +1,9 @@
-input {
+#input { /* se asigna correctamente el selector de id */
   width: 500px;
   height: 40px;
   font-size: 18px;
 }
+
 
 #lista-de-productos {
   display: flex
